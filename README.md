@@ -50,9 +50,10 @@
 ### 발표자료
 [ppt](docs/presentation/공통PJT_서울_8반_A803_허주혁.pdf)
 
-</br>
-[발표영상](docs/presentation/공통PJT_서울_8반_A803_UCC경진대회.mp4)
-
+<div align="center">
+    
+[![Video Label](http://img.youtube.com/vi/NAuW7E_m9is/0.jpg)](https://youtu.be/NAuW7E_m9is)
+</div>
 
 ## 역할
 
